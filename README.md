@@ -1,4 +1,4 @@
 # demo
 A demo repository.
 <br>
-Author - Raiyan Bin Atik
+Author - Raiyan (Last name - Bin Atik)
